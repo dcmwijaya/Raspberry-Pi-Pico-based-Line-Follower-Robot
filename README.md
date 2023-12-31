@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Raspberry%20Pi%20Pico-light.svg?style=flat&logo=github&logoColor=white&color=%23F7DF1E)
 
 # Raspberry-Pi-Pico-based-Line-Follower-Robot
-<strong>Solo Project Raspberry Pi Pico-based Line Follower</strong><br><br>
+<strong>Solo Project Raspberry Pi Pico-Based Line Follower Robot</strong><br><br>
 In operation, this robot car requires a battery as its power supply. This robot car uses an infrared sensor to determine the innermost limit of a line, so that the robot car will still move along the existing line. In the process, this sensor works on the principle of light reflection. The Led emits light, then the light is received by the photodiode.
 
 <br>
