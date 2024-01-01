@@ -10,3 +10,18 @@ In operation, this robot car requires a battery as its power supply. This robot 
 <br>
 
 <img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/e179b0d6-af4f-4cda-b5b2-c1a9366b00cf" alt="Happy_New_Years">
+
+<br><br>
+
+## Features / Framework / Tools
+| Media | Description |
+| --- | --- |
+| Board Development | Raspberry Pi Pico |
+| Code Editor | Thonny IDE |
+| Driver | PROCESS... |
+| Arduino Library | PROCESS... |
+| Actuators | Gear Motor / Motor DC (x2) |
+| Sensor | Infrared Sensor (x1) |
+| Other Components | Micro usb cable (x1), Jumper cable, Li-ion battery 4800mAh 3.7V 18650 (x2), Parallel battery holder (x1), Robot wheels (x3), Motor driver L298N (x1), Car robot frame (x1), ETC |
+
+<br><br>
