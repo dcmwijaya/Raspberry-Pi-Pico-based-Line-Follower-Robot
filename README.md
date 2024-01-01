@@ -21,7 +21,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
 | Driver | PROCESS... |
 | Arduino Library | PROCESS... |
 | Actuators | Gear Motor / Motor DC (x2) |
-| Sensor | Infrared Sensor (x1) |
+| Sensor | Infrared Sensor (x2) |
 | Other Components | Micro usb cable (x1), Jumper cable, Li-ion battery 4800mAh 3.7V 18650 (x2), Parallel battery holder (x1), Robot wheels (x3), Motor driver L298N (x1), Car robot frame (x1), ETC |
 
 <br><br>
