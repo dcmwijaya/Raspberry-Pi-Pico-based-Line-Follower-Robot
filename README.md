@@ -18,7 +18,8 @@ In operation, this robot car requires a battery as its power supply. This robot 
 | --- | --- |
 | Board Development | Raspberry Pi Pico |
 | Code Editor | Thonny IDE |
-| Driver | PROCESS... |
+| Bootloader | MicroPython UF2 |
+| Programming Language | MicroPython |
 | Arduino Library | PROCESS... |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | 3-Channel Infrared Sensor Tracking Module (x1) |
