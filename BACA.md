@@ -77,7 +77,19 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 <br><br>
 
 ## Pengaturan Thonny IDE
-Dalam proses.....
+1. Buka ``` Thonny IDE ``` terlebih dahulu.<br><br>
+
+2. Klik ``` Tools ``` -> lalu pilih ``` Options... ``` -> klik ``` Interpreter ```, kemudian pengaturannya ubah seperti ini :
+
+   • ``` Interpreter ``` -> ``` MicroPython (Raspberry Pi Pico) ```.
+
+   • ``` Port ``` -> ``` <Try to detect port automatically> ```.<br><br>
+
+3. Jika tampilan berkas belum ada di Thonny IDE, maka silakan anda klik bagian ``` View ``` -> lalu pilih ``` Files ``` untuk menampilkannya.<br><br>
+
+4. Kemudian cari berkas yang bernama ``` rpipico_line_follower.py ``` di komputer Anda -> lalu klik kanan pada berkas tersebut -> pilih ``` Upload to / ```.<br><br>
+
+5. Buka berkas ``` rpipico_line_follower.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.
 
 <br><br>
 
