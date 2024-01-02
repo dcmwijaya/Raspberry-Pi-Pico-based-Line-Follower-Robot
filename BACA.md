@@ -61,6 +61,16 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 
 <br><br>
 
+## Pengaturan Bootloader MicroPython
+Dalam proses.....
+
+<br><br>
+
+## Pengaturan Thonny IDE
+Dalam proses.....
+
+<br><br>
+
 ## Memulai
 1. Unduh dan ekstrak repositori ini.<br><br>
    
