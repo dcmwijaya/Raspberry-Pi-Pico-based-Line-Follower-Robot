@@ -68,11 +68,11 @@ In operation, this robot car requires a battery as its power supply. This robot 
 
    - After the Raspberry Pi Pico is recognized by the computer (connected), then immediately release the ``` BOOTSEL ``` button.
    
-   - When successfully connected, a new drive called ``` RP-RPI2 ``` will open.
+   - When successfully connected, a new drive called ``` RPI-RP2 ``` will open.
    
-   - ``` Drag -> Drop ``` or ``` Copy -> Paste ``` the ``` MicroPython UF2 ``` firmware file into the ``` RP-RPI2 ``` drive.<br><br>
+   - ``` Drag -> Drop ``` or ``` Copy -> Paste ``` the ``` MicroPython UF2 ``` firmware file into the ``` RPI-RP2 ``` drive.<br><br>
 
-2. After the process is successful, the ``` RP-RPI2 ``` drive will automatically close.
+2. After the process is successful, the ``` RPI-RP2 ``` drive will automatically close.
 
 <br><br>
 
