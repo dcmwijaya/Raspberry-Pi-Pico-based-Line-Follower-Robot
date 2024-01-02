@@ -72,7 +72,7 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
    
    • ``` Seret -> Lepaskan ``` atau ``` Salin -> Tempelkan ``` file firmware ``` MicroPython UF2 ``` ke dalam drive ``` RP-RPI2 ```.<br><br>
 
-2. Setelah prosesnya berhasil, maka drive ``` RP-RPI2 ``` akan otomatis tertutup.<br><br>
+2. Setelah prosesnya berhasil, maka drive ``` RP-RPI2 ``` akan otomatis tertutup.
 
 <br><br>
 
