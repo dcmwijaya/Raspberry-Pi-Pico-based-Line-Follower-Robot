@@ -18,7 +18,7 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 | --- | --- |
 | Papan Pengembangan | Raspberry Pi Pico |
 | Editor Kode | Thonny IDE |
-| Pemuat Boot | MicroPython UF2 |
+| Bootloader | MicroPython UF2 |
 | Bahasa Pemrograman | MicroPython |
 | Pustaka MicroPython | machine & time |
 | Aktuator | Gear Motor / Motor DC (x2) |
