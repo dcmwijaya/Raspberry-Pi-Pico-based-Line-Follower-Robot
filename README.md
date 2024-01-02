@@ -61,6 +61,16 @@ In operation, this robot car requires a battery as its power supply. This robot 
 
 <br><br>
 
+## MicroPython Bootloader Setup
+In process.....
+
+<br><br>
+
+## Thonny IDE Setup
+In process.....
+
+<br><br>
+
 ## Get Started
 1. Download and extract this repository.<br><br>
    
