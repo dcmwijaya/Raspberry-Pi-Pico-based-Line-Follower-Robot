@@ -62,7 +62,17 @@ In operation, this robot car requires a battery as its power supply. This robot 
 <br><br>
 
 ## MicroPython Bootloader Setup
-In process.....
+1. ``` Upload the firmware ``` :
+
+   - Press and hold the ``` BOOTSEL ``` button on the Raspberry Pi Pico board while connecting to the computer via a micro USB cable.
+
+   - After the Raspberry Pi Pico is recognized by the computer (connected), then immediately release the ``` BOOTSEL ``` button.
+   
+   - When successfully connected, a new drive called ``` RP-RPI2 ``` will open.
+   
+   - ``` Drag -> Drop ``` or ``` Copy -> Paste ``` the ``` MicroPython UF2 ``` firmware file into the ``` RP-RPI2 ``` drive.<br><br>
+
+2. After the process is successful, the ``` RP-RPI2 ``` drive will automatically close.
 
 <br><br>
 
