@@ -38,3 +38,25 @@ In operation, this robot car requires a battery as its power supply. This robot 
    ```
    
 <br><br>
+
+## Project Requirements
+<table>
+<tr>
+<th width="420">Block Diagram</th>
+<th width="420">Pictorial Diagram</th>
+</tr>
+<tr>
+<td><img src="" alt="Block-Diagram"></td>
+<td><img src="" alt="Pictorial-Diagram"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th width="840">Wiring</th>
+</tr>
+<tr>
+<td><img src="" alt="Wiring"></td>
+</tr>
+</table>
+
+<br><br>
