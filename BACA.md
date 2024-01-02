@@ -62,7 +62,17 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 <br><br>
 
 ## Pengaturan Bootloader MicroPython
-Dalam proses.....
+1. ``` Unggah firmware ``` :
+
+   • Tekan dan tahan tombol ``` BOOTSEL ``` yang ada di papan Raspberry Pi Pico sembari menyambungkan ke komputer melalui kabel mikro USB.
+
+   • Setelah Raspberry Pi Pico dikenali oleh komputer (terhubung), maka segera lepaskan tombol ``` BOOTSEL ```.
+   
+   • Ketika berhasil terhubung, maka sebuah drive baru bernama ``` RP-RPI2 ``` akan terbuka.
+   
+   • ``` Seret -> Lepaskan ``` atau ``` Salin -> Tempelkan ``` file firmware ``` MicroPython UF2 ``` ke dalam drive ``` RP-RPI2 ```.<br><br>
+
+2. Setelah prosesnya berhasil, maka drive ``` RP-RPI2 ``` akan otomatis tertutup.<br><br>
 
 <br><br>
 
