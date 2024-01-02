@@ -77,7 +77,19 @@ In operation, this robot car requires a battery as its power supply. This robot 
 <br><br>
 
 ## Thonny IDE Setup
-In process.....
+1. Open ``` Thonny IDE ``` first.<br><br>
+
+2. Click ``` Tools ``` -> then select ``` Options... ``` -> click ``` Interpreter ```, then change the settings like this :
+
+   • ``` Interpreter ``` -> ``` MicroPython (Raspberry Pi Pico) ```.
+
+   • ``` Port ``` -> ``` <Try to detect port automatically> ```.<br><br>
+
+3. If the file view does not exist in Thonny IDE, then please click the ``` View ``` -> section and select ``` Files ``` to display it.<br><br>
+
+4. Then find the file named ``` rpipico_line_follower.py ``` on your computer -> then right click on the file -> select ``` Upload to / ```.<br><br>
+
+5. Open the file ``` rpipico_line_follower.py ``` which is in the ``` Raspberry Pi Pico ``` storage -> then click ``` Run current script (F5) ```.
 
 <br><br>
 
