@@ -68,11 +68,11 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 
    • Setelah Raspberry Pi Pico dikenali oleh komputer (terhubung), maka segera lepaskan tombol ``` BOOTSEL ```.
    
-   • Ketika berhasil terhubung, maka sebuah drive baru bernama ``` RP-RPI2 ``` akan terbuka.
+   • Ketika berhasil terhubung, maka sebuah drive baru bernama ``` RPI-RP2 ``` akan terbuka.
    
-   • ``` Seret -> Lepaskan ``` atau ``` Salin -> Tempelkan ``` file firmware ``` MicroPython UF2 ``` ke dalam drive ``` RP-RPI2 ```.<br><br>
+   • ``` Seret -> Lepaskan ``` atau ``` Salin -> Tempelkan ``` file firmware ``` MicroPython UF2 ``` ke dalam drive ``` RPI-RP2 ```.<br><br>
 
-2. Setelah prosesnya berhasil, maka drive ``` RP-RPI2 ``` akan otomatis tertutup.
+2. Setelah prosesnya berhasil, maka drive ``` RPI-RP2 ``` akan otomatis tertutup.
 
 <br><br>
 
