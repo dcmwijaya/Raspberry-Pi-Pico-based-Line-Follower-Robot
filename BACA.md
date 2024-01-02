@@ -18,7 +18,8 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 | --- | --- |
 | Papan Pengembangan | Raspberry Pi Pico |
 | Editor Kode | Thonny IDE |
-| Driver | PROCESS... |
+| Pemuat Boot | MicroPython UF2 |
+| Bahasa Pemrograman | MicroPython |
 | Pustaka Arduino | PROCESS... |
 | Aktuator | Gear Motor / Motor DC (x2) |
 | Sensor | Modul Pelacakan Sensor Inframerah 3-Channel (x1) |
