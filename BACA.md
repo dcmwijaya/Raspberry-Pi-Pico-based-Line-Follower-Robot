@@ -7,10 +7,6 @@
 <strong>Proyek Tunggal Robot Pengikut Garis Berbasis Raspberry Pi Pico</strong><br><br>
 Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam dari sebuah garis, sehingga mobil robot akan tetap bergerak mengikuti garis yang ada. Dalam prosesnya, sensor ini bekerja berdasarkan prinsip pemantulan cahaya. Led memancarkan cahaya, kemudian cahaya tersebut diterima oleh photodioda.
 
-<br>
-
-<img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/e179b0d6-af4f-4cda-b5b2-c1a9366b00cf" alt="Happy_New_Years">
-
 <br><br>
 
 ## Fitur / Kerangka Kerja / Alat
