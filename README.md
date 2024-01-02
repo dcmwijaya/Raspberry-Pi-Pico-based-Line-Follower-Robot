@@ -34,7 +34,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
 2. MicroPython UF2
 
    ```
-   https://micropython.org/download/RPI_PICO/
+   https://bit.ly/MicroPython_UF2
    ```
    
 <br><br>
