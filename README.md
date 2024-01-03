@@ -55,7 +55,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/ddd2d7d3-8102-4af3-9751-e60908459330" alt="Wiring"></td>
 </tr>
 </table>
 
