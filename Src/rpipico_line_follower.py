@@ -3,10 +3,10 @@ from time import sleep # import the sleep module from the time library
 
 # pin initialization
 ENA = PWM(Pin(1)) # initialize PWM on pin 1 to control the left motor
-IN1 = Pin(2,Pin.OUT) # pin 2 is used as an output to rotate the left motor direction forward.
-IN2 = Pin(3,Pin.OUT) # pin 3 is used as an output to rotate the left motor direction backwards.
-IN3 = Pin(4,Pin.OUT) # pin 4 is used as an output to rotate the right motor direction forward.
-IN4 = Pin(5,Pin.OUT) # pin 5 is used as an output to rotate the right motor direction backwards.
+IN1 = Pin(2,Pin.OUT) # pin 2 is used as an output to rotate the left motor direction forward
+IN2 = Pin(3,Pin.OUT) # pin 3 is used as an output to rotate the left motor direction backwards
+IN3 = Pin(4,Pin.OUT) # pin 4 is used as an output to rotate the right motor direction forward
+IN4 = Pin(5,Pin.OUT) # pin 5 is used as an output to rotate the right motor direction backwards
 ENB = PWM(Pin(6)) # initialize PWM on pin 6 to control the right motor
 right = Pin(7, Pin.IN) # pin 7 is used as input in reading the value of the line sensor on the right side
 middle = Pin(8, Pin.IN) # pin 8 is used as input in reading the value of the line sensor on the middle side
@@ -73,7 +73,7 @@ if   __name__ == '__main__':
     try:
         # loop without stopping
         while True:
-            robot() # this method applies robot movement logic based on the sensor values obtained from the lineFollowing method.
+            robot() # this method applies robot movement logic based on the sensor values obtained from the lineFollowing method
           
     # exception handling
     except KeyboardInterrupt:
