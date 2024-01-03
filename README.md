@@ -106,6 +106,11 @@ In operation, this robot car requires a battery as its power supply. This robot 
 
 <br><br>
 
+## Highlights
+Coming Soon....
+
+<br><br>
+
 ## Disclaimer
 This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
 
