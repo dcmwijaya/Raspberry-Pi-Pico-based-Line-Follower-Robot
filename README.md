@@ -18,7 +18,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
 | Programming Language | MicroPython |
 | MicroPython Library | machine & time |
 | Actuators | Gear Motor / Motor DC (x2) |
-| Sensor | 3-Channel Infrared Sensor Tracking Module (x1) |
+| Sensor | KR08200: 3-Way Line Tracking IR Sensor (x1) |
 | Other Components | Micro usb cable (x1), Jumper cable, Li-ion battery 4800mAh 3.7V 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x2), Caster wheel (x1), Motor driver L298N (x1), Car robot frame (x1), ETC |
 
 <br><br>
