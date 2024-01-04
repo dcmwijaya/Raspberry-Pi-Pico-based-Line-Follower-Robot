@@ -18,7 +18,7 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 | Bahasa Pemrograman | MicroPython |
 | Pustaka MicroPython | machine & time |
 | Aktuator | Gear Motor / Motor DC (x2) |
-| Sensor | Modul Pelacakan Sensor Inframerah 3-Channel (x1) |
+| Sensor | KR08200: Sensor IR Pelacakan Garis 3 Arah (x1) |
 | Komponen Lainnya | Kabel mikro usb (x1), Kabel jumper, Baterai Li-ion 4800mAh 3.7V 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x2), Roda kastor (x1), Motor driver L298N (x1), Kerangka robot mobil (x1), DLL |
 
 <br><br>
