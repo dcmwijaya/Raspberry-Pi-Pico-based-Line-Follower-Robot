@@ -56,7 +56,7 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/dcc3c9a3-ff1d-47f3-85c0-3eb906bcbb21" alt="Wiring"></td>
 </tr>
 </table>
 
