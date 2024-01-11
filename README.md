@@ -9,7 +9,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
 
 <br><br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Media | Description |
 | --- | --- |
 | Board Development | Raspberry Pi Pico |
@@ -40,7 +40,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
    
 <br><br>
 
-## Project Requirements
+## Project Designs
 <table>
 <tr>
 <th width="420">Block Diagram</th>
@@ -101,7 +101,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
    
 3. Make sure your components are designed according to the diagram.<br><br>
    
-4. If you don't apply points 2 and 3 for project development purposes, that's fine, but be aware that some things need to be changed according to your needs for the system to work properly.<br><br>
+4. Configure your device according to the settings above.<br><br>
 
 5. Please enjoy [Done].
 
