@@ -92,7 +92,9 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 
 4. Kemudian cari berkas yang bernama ``` rpipico_line_follower.py ``` di komputer Anda -> lalu klik kanan pada berkas tersebut -> pilih ``` Upload to / ```.<br><br>
 
-5. Buka berkas ``` rpipico_line_follower.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.
+5. Buka berkas ``` rpipico_line_follower.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.<br><br>
+
+6. Kode program berhasil dieksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.
 
 <br><br>
 
