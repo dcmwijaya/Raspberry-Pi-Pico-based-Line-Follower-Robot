@@ -82,9 +82,9 @@ In operation, this robot car requires a battery as its power supply. This robot 
 
 2. Click ``` Tools ``` -> then select ``` Options... ``` -> click ``` Interpreter ```, then change the settings like this :
 
-   • ``` Interpreter ``` -> ``` MicroPython (Raspberry Pi Pico) ```.
+   • ``` Interpreter ``` -> ``` MicroPython (Raspberry Pi Pico) ```
 
-   • ``` Port ``` -> ``` <Try to detect port automatically> ```.<br><br>
+   • ``` Port ``` -> ``` Board CDC @ COM... ```<br><br>
 
 3. If the file view does not exist in Thonny IDE, then please click the ``` View ``` -> section and select ``` Files ``` to display it.<br><br>
 
