@@ -84,7 +84,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
 
    • ``` Interpreter ``` -> ``` MicroPython (Raspberry Pi Pico) ```
 
-   • ``` Port ``` -> ``` Board CDC @ COM... ```<br><br>
+   • ``` Port ``` -> ``` Board CDC @ COM... ```
 
    • ``` Restart interpreter before running a script ``` -> ``` uncheck list ```<br><br>
 
