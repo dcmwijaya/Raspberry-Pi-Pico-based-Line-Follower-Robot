@@ -96,7 +96,7 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 
 6. Kode program berhasil di eksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.<br><br>
 
-7. Jika anda ragu untuk memulai, anda bisa mencoba terlebih dahulu dengan menyalakan led yang sudah ada di board Raspberry Pi Pico untuk mengetahui apakah semuanya berjalan dengan baik atau tidak, misalnya dengan cara mengeksekusi kode program di bawah ini :
+7. Jika anda ragu untuk memulai, anda bisa mencoba terlebih dahulu dengan ``` menyalakan led ``` yang sudah ada di board ``` Raspberry Pi Pico ``` untuk mengetahui apakah semuanya berjalan dengan baik atau tidak, misalnya dengan cara mengeksekusi kode program di bawah ini :
    
    ```python
    from machine import Pin, Timer
