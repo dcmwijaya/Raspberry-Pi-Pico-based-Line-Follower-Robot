@@ -82,9 +82,9 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 
 2. Klik ``` Tools ``` -> lalu pilih ``` Options... ``` -> klik ``` Interpreter ```, kemudian pengaturannya ubah seperti ini :
 
-   • ``` Interpreter ``` -> ``` MicroPython (Raspberry Pi Pico) ```.
+   • ``` Interpreter ``` -> ``` MicroPython (Raspberry Pi Pico) ```
 
-   • ``` Port ``` -> ``` Board CDC @ COM... ```.<br><br>
+   • ``` Port ``` -> ``` Board CDC @ COM... ```<br><br>
 
 3. Jika tampilan berkas belum ada di Thonny IDE, maka silakan anda klik bagian ``` View ``` -> lalu pilih ``` Files ``` untuk menampilkannya.<br><br>
 
