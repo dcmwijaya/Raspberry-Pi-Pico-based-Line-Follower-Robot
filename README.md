@@ -86,6 +86,8 @@ In operation, this robot car requires a battery as its power supply. This robot 
 
    • ``` Port ``` -> ``` Board CDC @ COM... ```<br><br>
 
+   • ``` Restart interpreter before running a script ``` -> ``` uncheck list ```<br><br>
+
 3. If the file view does not exist in Thonny IDE, then please click the ``` View ``` -> section and select ``` Files ``` to display it.<br><br>
 
 4. Then find the file named ``` rpipico_line_follower.py ``` on your computer -> then right click on the file -> select ``` Upload to / ```.<br><br>
