@@ -92,7 +92,9 @@ In operation, this robot car requires a battery as its power supply. This robot 
 
 4. Then find the file named ``` rpipico_line_follower.py ``` on your computer -> then right click on the file -> select ``` Upload to / ```.<br><br>
 
-5. Open the file ``` rpipico_line_follower.py ``` which is in the ``` Raspberry Pi Pico ``` storage -> then click ``` Run current script (F5) ```.
+5. Open the file ``` rpipico_line_follower.py ``` which is in the ``` Raspberry Pi Pico ``` storage -> then click ``` Run current script (F5) ```.<br><br>
+
+6. Program code executed successfully -> sign: ``` %run -c $EDITOR_CONTENT ```.
 
 <br><br>
 
