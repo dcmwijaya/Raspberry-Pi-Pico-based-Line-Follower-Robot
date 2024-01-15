@@ -48,7 +48,7 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/2d13dd05-7f81-45cb-9e72-9e8d3ff9a8ef" alt="Block-Diagram"></td>
-<td><img src="" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/2180f036-c0da-40a5-9659-4097f492516c" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
