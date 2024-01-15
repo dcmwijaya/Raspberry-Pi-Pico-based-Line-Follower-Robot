@@ -108,7 +108,7 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 <br><br>
 
 ## Sorotan
-Segera hadir....
+<img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/684c7c48-d779-46ba-8813-821667959d09" alt="robot-line-follower">
 
 <br><br>
 
