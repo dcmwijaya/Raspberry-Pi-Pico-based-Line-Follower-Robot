@@ -86,7 +86,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
 
    • ``` Port ``` -> ``` Board CDC @ COM... ```
 
-   • ``` Restart interpreter before running a script ``` -> ``` uncheck list ```<br><br>
+   • ``` Restart interpreter before running a script ``` -> ``` uncheck ```<br><br>
 
 3. If the file view does not exist in Thonny IDE, then please click the ``` View ``` -> section and select ``` Files ``` to display it.<br><br>
 
