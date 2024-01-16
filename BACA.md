@@ -99,14 +99,26 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 7. Jika anda ragu untuk memulai, anda bisa mencoba terlebih dahulu dengan ``` menyalakan LED ``` yang sudah ada di board ``` Raspberry Pi Pico ``` untuk mengetahui apakah semuanya berjalan dengan baik atau tidak, misalnya dengan cara mengeksekusi kode program di bawah ini :
    
    ```python
-   from machine import Pin, Timer
-   led = Pin(25, Pin.OUT)
-   timer = Timer()
+   from machine import Pin
+   from utime import sleep
    
-   def blink(timer):
-       led.toggle()
+   def setup():
+   	global led
+   	led = Pin(25, Pin.OUT)
    
-   timer.init(freq=2.5, mode=Timer.PERIODIC, callback=blink)
+   def blink():
+   	led.value(1)
+   	sleep(1)
+   	led.value(0)
+   	sleep(1)
+   
+   def loop():
+   	blink()
+   
+   if __name__ == '__main__':
+   	while True:
+   		setup()
+   		loop()
    ```
 
 <br><br>
