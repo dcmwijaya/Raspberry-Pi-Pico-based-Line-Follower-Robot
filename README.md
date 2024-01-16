@@ -113,12 +113,12 @@ In operation, this robot car requires a battery as its power supply. This robot 
    	sleep(1)
    
    def loop():
-   	blink()
+   	while True:
+   		blink()
    
    if __name__ == '__main__':
-   	while True:
-   		setup()
-   		loop()
+   	setup()
+   	loop()
    ```
 
 <br><br>
