@@ -90,7 +90,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
   
       - ``` Restart interpreter before running a script ``` -> ``` uncheck ```<br><br>
    
-   • ``` Editor Menu ```, then check all options.<br><br>
+   • ``` Editor Menu ```, then check all the options except ```Indent with tab characters ```.<br><br>
 
 3. If the file view does not exist in Thonny IDE, then please click the ``` View ``` -> section and select ``` Files ``` to display it.<br><br>
 
