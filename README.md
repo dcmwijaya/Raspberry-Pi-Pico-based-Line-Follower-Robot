@@ -107,22 +107,22 @@ In operation, this robot car requires a battery as its power supply. This robot 
    from utime import sleep
    
    def setup():
-   	global led
-   	led = Pin(25, Pin.OUT)
+      global led
+      led = Pin(25, Pin.OUT)
    
    def blink():
-   	led.value(1)
-   	sleep(1)
-   	led.value(0)
-   	sleep(1)
+      led.value(1)
+      sleep(1)
+      led.value(0)
+      sleep(1)
    
    def loop():
-   	while True:
-   		blink()
+      while True:
+         blink()
    
    if __name__ == '__main__':
-   	setup()
-   	loop()
+      setup()
+      loop()
    ```
 
 <br><br>
