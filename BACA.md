@@ -92,15 +92,15 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
    
    • ``` Menu Editor ```, kemudian centang semua opsinya.<br><br>
 
-4. Jika tampilan berkas belum ada di Thonny IDE, maka silakan anda klik bagian ``` View ``` -> lalu pilih ``` Files ``` untuk menampilkannya.<br><br>
+3. Jika tampilan berkas belum ada di Thonny IDE, maka silakan anda klik bagian ``` View ``` -> lalu pilih ``` Files ``` untuk menampilkannya.<br><br>
 
-5. Kemudian cari berkas yang bernama ``` rpipico_line_follower.py ``` di komputer Anda -> lalu klik kanan pada berkas tersebut -> pilih ``` Upload to / ```.<br><br>
+4. Kemudian cari berkas yang bernama ``` rpipico_line_follower.py ``` di komputer Anda -> lalu klik kanan pada berkas tersebut -> pilih ``` Upload to / ```.<br><br>
 
-6. Buka berkas ``` rpipico_line_follower.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.<br><br>
+5. Buka berkas ``` rpipico_line_follower.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.<br><br>
 
-7. Kode program berhasil di eksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.<br><br>
+6. Kode program berhasil di eksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.<br><br>
 
-8. Jika anda ragu untuk memulai, anda bisa mencoba terlebih dahulu dengan ``` menyalakan LED ``` yang sudah ada di board ``` Raspberry Pi Pico ``` untuk mengetahui apakah semuanya berjalan dengan baik atau tidak, misalnya dengan cara mengeksekusi kode program di bawah ini :
+7. Jika anda ragu untuk memulai, anda bisa mencoba terlebih dahulu dengan ``` menyalakan LED ``` yang sudah ada di board ``` Raspberry Pi Pico ``` untuk mengetahui apakah semuanya berjalan dengan baik atau tidak, misalnya dengan cara mengeksekusi kode program di bawah ini :
    
    ```python
    from machine import Pin
