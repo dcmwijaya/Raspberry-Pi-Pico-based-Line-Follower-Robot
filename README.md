@@ -16,7 +16,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
 | Code Editor | Thonny IDE |
 | Bootloader | MicroPython UF2 |
 | Programming Language | MicroPython |
-| MicroPython Library | machine & time |
+| Packages | machine & time |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | KR08200: 3-Way Line Tracking IR Sensor (x1) |
 | Switch | KCD11: Rocker Switch SPST (x1) |
