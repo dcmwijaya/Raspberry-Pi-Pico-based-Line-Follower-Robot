@@ -16,7 +16,7 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 | Editor Kode | Thonny IDE |
 | Bootloader | MicroPython UF2 |
 | Bahasa Pemrograman | MicroPython |
-| Paket | machine & time |
+| Paket | machine & utime |
 | Aktuator | Gear Motor / Motor DC (x2) |
 | Sensor | KR08200: Sensor IR Pelacakan Garis 3 Arah (x1) |
 | Saklar | KCD11: Saklar Pengayun SPST (x1) |
