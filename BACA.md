@@ -113,12 +113,12 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
    	sleep(1)
    
    def loop():
-   	blink()
+   	while True:
+   		blink()
    
    if __name__ == '__main__':
-   	while True:
-   		setup()
-   		loop()
+   	setup()
+   	loop()
    ```
 
 <br><br>
