@@ -51,34 +51,34 @@ def lineFollowing():
 # motor control method: forward
 def forward():
     print("forward")
-    IN1.on()
-    IN2.off() 
-    IN3.on()
-    IN4.off()
+    IN1.low()
+    IN2.high() 
+    IN3.high()
+    IN4.low()
 
 # motor control method: turn right
 def turnRight():
     print("turn right")
-    IN1.on()
-    IN2.off()
-    IN3.off()
-    IN4.on()
+    IN1.low()
+    IN2.high() 
+    IN3.low()
+    IN4.high()
 
 # motor control method: turn left
 def turnLeft():
     print("turn left")
-    IN1.off()
-    IN2.on()
-    IN3.on()
-    IN4.off()
+    IN1.high()
+    IN2.low() 
+    IN3.high()
+    IN4.low()
 
 # motor control method: stop
 def stop():
     print("stop")
-    IN1.off()
-    IN2.off()
-    IN3.off()
-    IN4.off()
+    IN1.low()
+    IN2.low()
+    IN3.low()
+    IN4.low()
 
 # main method
 if __name__ == '__main__':
