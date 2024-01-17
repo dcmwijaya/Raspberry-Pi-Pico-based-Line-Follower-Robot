@@ -93,7 +93,7 @@ This project discusses how a robot can move along a line automatically. This rob
 
 3. If the file view does not exist in Thonny IDE, then please click the ``` View ``` -> section and select ``` Files ``` to display it.<br><br>
 
-4. Then look for a file called ``` main.py ``` in the directory: ``` Raspberry-Pi-Pico-based-Line-Follower-Robot-master/Src ```.<br><br>
+4. Then look for a file called ``` main.py ``` in the directory: ``` Raspberry-Pi-Pico-based-Line-Follower-Robot/Src ```.<br><br>
    
 5. Right click on the file -> select ``` Upload to / ```.<br><br>
 
