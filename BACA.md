@@ -98,32 +98,7 @@ Mobil robot ini menggunakan sensor inframerah untuk menentukan batas terdalam da
 
 5. Buka berkas ``` rpipico_line_follower.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.<br><br>
 
-6. Kode program berhasil di eksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.<br><br>
-
-7. Jika anda ragu untuk memulai, anda bisa mencoba terlebih dahulu dengan ``` menyalakan LED ``` yang sudah ada di board ``` Raspberry Pi Pico ``` untuk mengetahui apakah semuanya berjalan dengan baik atau tidak, misalnya dengan cara mengeksekusi kode program di bawah ini :
-   
-   ```python
-   from machine import Pin
-   from utime import sleep
-   
-   def setup():
-      global led
-      led = Pin(25, Pin.OUT)
-   
-   def blink():
-      led.value(1)
-      sleep(1)
-      led.value(0)
-      sleep(1)
-   
-   def loop():
-      while True:
-         blink()
-   
-   if __name__ == '__main__':
-      setup()
-      loop()
-   ```
+6. Kode program berhasil di eksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.
 
 <br><br>
 
