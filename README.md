@@ -93,11 +93,13 @@ This project discusses how a robot can move along a line automatically. This rob
 
 3. If the file view does not exist in Thonny IDE, then please click the ``` View ``` -> section and select ``` Files ``` to display it.<br><br>
 
-4. Then find the file named ``` rpipico_line_follower.py ``` on your computer -> then right click on the file -> select ``` Upload to / ```.<br><br>
+4. Then find the file named ``` rpipico_line_follower.py ``` on your computer -> then change the file name to: ``` main.py ``` so that later it can be recognized by the Raspberry Pi Pico when it wants to be operated.<br><br>
+   
+5. Right click on the file -> select ``` Upload to / ```.<br><br>
 
-5. Open the file ``` rpipico_line_follower.py ``` which is in the ``` Raspberry Pi Pico ``` storage -> then click ``` Run current script (F5) ```.<br><br>
+6. Open the file ``` main.py ``` which is in the ``` Raspberry Pi Pico ``` storage -> then click ``` Run current script (F5) ```.<br><br>
 
-6. Program code executed successfully -> sign: ``` %run -c $EDITOR_CONTENT ```.
+7. Program code executed successfully -> sign: ``` %run -c $EDITOR_CONTENT ```.
 
 <br><br>
 
