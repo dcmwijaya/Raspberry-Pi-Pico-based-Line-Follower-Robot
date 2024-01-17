@@ -98,32 +98,7 @@ In operation, this robot car requires a battery as its power supply. This robot 
 
 5. Open the file ``` rpipico_line_follower.py ``` which is in the ``` Raspberry Pi Pico ``` storage -> then click ``` Run current script (F5) ```.<br><br>
 
-6. Program code executed successfully -> sign: ``` %run -c $EDITOR_CONTENT ```.<br><br>
-
-7. If you are hesitant to start, you can try first by ``` turning on the LED ``` that is already on the board ``` Raspberry Pi Pico ``` to find out if everything goes well or not, for example by executing the program code below :
-   
-   ```python
-   from machine import Pin
-   from utime import sleep
-   
-   def setup():
-      global led
-      led = Pin(25, Pin.OUT)
-   
-   def blink():
-      led.value(1)
-      sleep(1)
-      led.value(0)
-      sleep(1)
-   
-   def loop():
-      while True:
-         blink()
-   
-   if __name__ == '__main__':
-      setup()
-      loop()
-   ```
+6. Program code executed successfully -> sign: ``` %run -c $EDITOR_CONTENT ```.
 
 <br><br>
 
