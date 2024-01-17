@@ -4,7 +4,7 @@ from utime import sleep # import the sleep module from the time library
 # setup method
 def setup():
     # global variable
-    global ENA, IN1, IN2, IN3, IN4, ENB, speed, right, middle, left, sensorValues
+    global ENA, IN1, IN2, IN3, IN4, ENB, speed, right, middle, left
     
     # motor dc initialization
     ENA = PWM(Pin(1)) # initialize PWM on pin 1 to control the left motor
@@ -23,13 +23,11 @@ def setup():
     right = Pin(7, Pin.IN) # pin 7 is used as input in reading the value of the line sensor on the right side
     middle = Pin(8, Pin.IN) # pin 8 is used as input in reading the value of the line sensor on the middle side
     left = Pin(9, Pin.IN) # pin 9 is used as input in reading the value of the line sensor on the left side
-    
-    # call the lineFollowing method
-    sensorValues = lineFollowing()
 
 # loop method
 def loop():
     while True:
+        sensorValues = lineFollowing() # call the lineFollowing method
         if sensorValues == [1,1,1]: # sensor value -> left, middle, right = 1 (detected)
             stop() # robot will stop
         elif sensorValues == [0,0,0]: # sensor value -> left, middle, right = 0 (not detected)
@@ -52,6 +50,7 @@ def lineFollowing():
 
 # motor control method: forward
 def forward():
+    print("forward")
     IN1.on()
     IN2.off() 
     IN3.on()
@@ -59,6 +58,7 @@ def forward():
 
 # motor control method: turn right
 def turnRight():
+    print("turn right")
     IN1.on()
     IN2.off()
     IN3.off()
@@ -66,6 +66,7 @@ def turnRight():
 
 # motor control method: turn left
 def turnLeft():
+    print("turn left")
     IN1.off()
     IN2.on()
     IN3.on()
@@ -73,6 +74,7 @@ def turnLeft():
 
 # motor control method: stop
 def stop():
+    print("stop")
     IN1.off()
     IN2.off()
     IN3.off()
