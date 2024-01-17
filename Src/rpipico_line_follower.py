@@ -1,5 +1,5 @@
 from machine import Pin, PWM # import the Pin and PWM modules from the machine library
-from utime import sleep # import the sleep module from the time library
+from utime import sleep # import the sleep module from the utime library
 
 # setup method
 def setup():
