@@ -94,11 +94,13 @@ Proyek ini membahas tentang bagaimana robot dapat bergerak mengikuti garis secar
 
 3. Jika tampilan berkas belum ada di Thonny IDE, maka silakan anda klik bagian ``` View ``` -> lalu pilih ``` Files ``` untuk menampilkannya.<br><br>
 
-4. Kemudian cari berkas yang bernama ``` rpipico_line_follower.py ``` di komputer Anda -> lalu klik kanan pada berkas tersebut -> pilih ``` Upload to / ```.<br><br>
+4. Kemudian cari berkas yang bernama ``` rpipico_line_follower.py ``` di komputer Anda -> lalu ubah nama berkasnya menjadi: ``` main.py ``` agar nantinya dapat dikenali oleh Raspberry Pi Pico saat mau dioperasikan.<br><br>
+   
+5. Klik kanan pada berkas tersebut -> pilih ``` Upload to / ```.<br><br>
 
-5. Buka berkas ``` rpipico_line_follower.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.<br><br>
+6. Buka berkas ``` rpipico_line_follower.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.<br><br>
 
-6. Kode program berhasil di eksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.
+7. Kode program berhasil di eksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.
 
 <br><br>
 
