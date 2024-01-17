@@ -98,7 +98,7 @@ Proyek ini membahas tentang bagaimana robot dapat bergerak mengikuti garis secar
    
 5. Klik kanan pada berkas tersebut -> pilih ``` Upload to / ```.<br><br>
 
-6. Buka berkas ``` rpipico_line_follower.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.<br><br>
+6. Buka berkas ``` main.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.<br><br>
 
 7. Kode program berhasil di eksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.
 
