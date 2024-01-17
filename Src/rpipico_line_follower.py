@@ -8,8 +8,8 @@ def setup():
     
     # motor dc initialization
     ENA = PWM(Pin(1)) # initialize PWM on pin 1 to control the left motor
-    IN1 = Pin(2, Pin.OUT) # pin 2 is used as an output to rotate the left motor direction forward
-    IN2 = Pin(3, Pin.OUT) # pin 3 is used as an output to rotate the left motor direction backwards
+    IN1 = Pin(2, Pin.OUT) # pin 2 is used as an output to rotate the left motor direction backwards
+    IN2 = Pin(3, Pin.OUT) # pin 3 is used as an output to rotate the left motor direction forward
     IN3 = Pin(4, Pin.OUT) # pin 4 is used as an output to rotate the right motor direction forward
     IN4 = Pin(5, Pin.OUT) # pin 5 is used as an output to rotate the right motor direction backwards
     ENB = PWM(Pin(6)) # initialize PWM on pin 6 to control the right motor
