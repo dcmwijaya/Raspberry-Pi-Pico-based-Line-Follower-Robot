@@ -18,6 +18,8 @@ def setup():
     speed = 45000 # set the motor speed with a value of 45000 (in the range 0 - 65025)
     ENA.duty_u16(speed) # set the PWM duty cycle for the left motor
     ENB.duty_u16(speed) # set the PWM duty cycle for the right motor
+    ENA.freq(1000) # ENA pin PWM frequency set to 1000 Hz
+    ENB.freq(1000) # ENB pin PWM frequency set to 1000 Hz
     
     # sensor initialization
     right = Pin(7, Pin.IN) # pin 7 is used as input in reading the value of the line sensor on the right side
