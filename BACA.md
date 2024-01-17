@@ -94,7 +94,7 @@ Proyek ini membahas tentang bagaimana robot dapat bergerak mengikuti garis secar
 
 3. Jika tampilan berkas belum ada di Thonny IDE, maka silakan anda klik bagian ``` View ``` -> lalu pilih ``` Files ``` untuk menampilkannya.<br><br>
 
-4. Kemudian cari berkas yang bernama ``` main.py ``` di direktori: ``` Raspberry-Pi-Pico-based-Line-Follower-Robot-master/Src ```.<br><br>
+4. Kemudian cari berkas bernama ``` main.py ``` di dalam direktori: ``` Raspberry-Pi-Pico-based-Line-Follower-Robot-master/Src ```.<br><br>
    
 5. Klik kanan pada berkas tersebut -> pilih ``` Upload to / ```.<br><br>
 
