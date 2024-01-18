@@ -47,7 +47,7 @@ This project discusses how a robot can move along a line automatically. This rob
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/2d13dd05-7f81-45cb-9e72-9e8d3ff9a8ef" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/7b26b147-abfd-4fa1-9c89-d84fc8ea3f2c" alt="Pictorial-Diagram"></td>
+<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/0ea2429f-f0d8-4db1-96f8-85622942111c" alt="Pictorial-Diagram"></td>
 </tr>
 </table>
 <table>
@@ -55,7 +55,7 @@ This project discusses how a robot can move along a line automatically. This rob
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/96c6e986-01fb-4b7c-bd00-55ee90bf30d6" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/9ce8539c-03ad-4e31-a5c7-bd44dabc9517" alt="Wiring"></td>
 </tr>
 </table>
 
@@ -117,7 +117,7 @@ This project discusses how a robot can move along a line automatically. This rob
 <br><br>
 
 ## Highlights
-<img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/684c7c48-d779-46ba-8813-821667959d09" alt="robot-line-follower">
+<img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/09f8d93b-ae48-4ad9-a3ef-3b69fd152945" alt="robot-line-follower">
 
 <br><br>
 
