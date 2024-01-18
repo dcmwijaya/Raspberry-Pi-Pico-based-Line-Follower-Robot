@@ -30,19 +30,19 @@ def setup():
 def loop():
     while True:
         sensorValues = lineFollowing() # call the lineFollowing method
-        if sensorValues == [1,1,1]: # sensor value -> left, middle, right = 1 (detected)
+        if sensorValues == [1,1,1]: # sensor value -> left, middle, right = 1 (bright/white)
             stop() # robot will stop
-        elif sensorValues == [0,0,0]: # sensor value -> left, middle, right = 0 (not detected)
+        elif sensorValues == [0,0,0]: # sensor value -> left, middle, right = 0 (dark/black)
             stop() # robot will stop
-        elif sensorValues == [1,0,1]: # sensor value -> left & right = 1 (detected), middle = 0 (not detected)
+        elif sensorValues == [1,0,1]: # sensor value -> left & right = 1 (bright/white), middle = 0 (dark/black)
             forward() # robot will move forward
-        elif sensorValues == [0,1,1]: # sensor value -> right & middle = 1 (detected), left = 0 (not detected)
+        elif sensorValues == [0,1,1]: # sensor value -> right & middle = 1 (bright/white), left = 0 (dark/black)
             turnLeft() # robot will turn left
-        elif sensorValues == [0,0,1]: # sensor value -> right = 1 (detected), middle & left = 0 (not detected)
+        elif sensorValues == [0,0,1]: # sensor value -> right = 1 (bright/white), middle & left = 0 (dark/black)
             turnLeft() # robot will turn left
-        elif sensorValues == [1,1,0]: # sensor value -> middle & left = 1 (detected), right = 0 (not detected)
+        elif sensorValues == [1,1,0]: # sensor value -> middle & left = 1 (bright/white), right = 0 (dark/black)
             turnRight() # robot will turn right
-        elif sensorValues == [1,0,0]: # sensor value -> left = 1 (detected), middle & right = 0 (not detected)
+        elif sensorValues == [1,0,0]: # sensor value -> left = 1 (bright/white), middle & right = 0 (dark/black)
             turnRight() # robot will turn right
 
 # lineFollowing method
