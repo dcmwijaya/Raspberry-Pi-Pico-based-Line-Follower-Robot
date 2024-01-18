@@ -56,7 +56,7 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/9ce8539c-03ad-4e31-a5c7-bd44dabc9517" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/dc0796e8-41c8-4f97-b1e0-4f8ce2576807" alt="Wiring"></td>
 </tr>
 </table>
 
