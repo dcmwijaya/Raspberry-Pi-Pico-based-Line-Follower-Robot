@@ -5,7 +5,8 @@
 
 # Raspberry-Pi-Pico-based-Line-Follower-Robot
 <strong>Solo Project Raspberry Pi Pico-Based Line Follower Robot</strong><br><br>
-This project discusses how a robot can move along a line automatically. This robot has been equipped with an infrared sensor of the type ``` TCRT5000 ```. In the process, this sensor works on the principle of light reflection to determine its output value. If the light reflection on the dark or black colored object is judged to be less or non-existent, then the phototransistor will be in the ``` OFF ``` condition and the module will give an output of ``` HIGH ```, in which case the led indicator will not light up. If the light reflection on the light-colored or white surface is judged to be sufficient, the phototransistor will be in the ``` ON ``` state and the module will give an output of ``` LOW ```, in which case the led indicator will light up.
+This project discusses how the robot can automatically recognize the specified line. This robot has been equipped with an infrared sensor of the ``` TCRT5000 ``` type. In the process, this sensor works based on the principle of light reflection obtained from the object which is then forwarded to the phototransistor to determine the output value. If the light reflection on a dark or black object is considered inadequate, the sensor module will provide a ``` LOW ``` output, in which case the LED indicator will not light up. If the light reflection on the bright or white surface is deemed adequate, the sensor module will provide a ``` HIGH ``` output, in which case the LED indicator will light up.
+
 <br><br>
 
 ## Project Requirements
