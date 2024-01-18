@@ -56,7 +56,7 @@ Proyek ini membahas tentang bagaimana robot dapat bergerak mengikuti garis secar
 <th width="840">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/2b5f243a-78b9-4d38-b901-8898fc9c7f13" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/9ce8539c-03ad-4e31-a5c7-bd44dabc9517" alt="Wiring"></td>
 </tr>
 </table>
 
