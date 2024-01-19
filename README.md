@@ -56,7 +56,7 @@ This project discusses how the robot can automatically recognize the specified l
 <th width="840">Wiring</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/dc0796e8-41c8-4f97-b1e0-4f8ce2576807" alt="Wiring"></td>
+<td><img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/1076b18e-4042-4d47-b4d9-9a7aa7a2cf36" alt="Wiring"></td>
 </tr>
 </table>
 
