@@ -19,8 +19,7 @@ This project discusses how the robot can automatically recognize the specified l
 | Packages | machine & utime |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | KR08200: 3-Way Line Tracking IR Sensor, Brand: Funduino (x1) |
-| Switch | KCD11: Rocker Switch SPST (x1) |
-| Other Components | Micro USB cable to 2 pin JST cable (x1), Jumper cable (1 set), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x2), Caster wheel (x1), Motor driver L298N (x1), Car robot frame (x1), Spicer bolts (1 set), Bolts plus (1 set), and Nuts (1 set) |
+| Other Components | Micro USB cable - USB type A (x1), Micro USB cable - 2 pin JST (x1), Jumper cable (1 set), KCD11: Rocker Switch SPST (x1), Li-ion battery 18650 (x2), 2-Slot series battery holder (x1), Robot wheels (x2), Caster wheel (x1), Motor driver L298N (x1), Car robot frame (x1), Spicer bolts (1 set), Bolts plus (1 set), and Nuts (1 set) |
 
 <br><br>
 
