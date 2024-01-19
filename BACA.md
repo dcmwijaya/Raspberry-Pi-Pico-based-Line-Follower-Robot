@@ -20,7 +20,7 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
 | Aktuator | Gear Motor / Motor DC (x2) |
 | Sensor | KR08200: Sensor IR Pelacakan Garis 3 Arah, Merek: Funduino (x1) |
 | Saklar | KCD11: Saklar Pengayun SPST (x1) |
-| Komponen Lainnya | Kabel mikro usb (x1), Kabel jumper (1 set), Baterai Li-ion 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x2), Roda kastor (x1), Motor driver L298N (x1), Kerangka robot mobil (x1), Baut spicer (1 set), Baut obeng plus (1 set), dan Mur (1 set) |
+| Komponen Lainnya | Kabel mikro USB-JST 2 pin (x1), Kabel jumper (1 set), Baterai Li-ion 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x2), Roda kastor (x1), Motor driver L298N (x1), Kerangka robot mobil (x1), Baut spicer (1 set), Baut obeng plus (1 set), dan Mur (1 set) |
 
 <br><br>
 
