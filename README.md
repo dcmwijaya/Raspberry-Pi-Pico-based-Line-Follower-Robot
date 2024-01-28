@@ -12,7 +12,7 @@ This project discusses how the robot can automatically recognize the specified l
 ## Project Requirements
 | Media | Description |
 | --- | --- |
-| Board Development | Raspberry Pi Pico |
+| Development Board | Raspberry Pi Pico |
 | Code Editor | Thonny IDE |
 | Bootloader | MicroPython UF2 |
 | Programming Language | MicroPython |
