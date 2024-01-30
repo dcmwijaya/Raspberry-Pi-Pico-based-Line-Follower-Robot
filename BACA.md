@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Raspberry%20Pi%20Pico-light.svg?style=flat&logo=raspberrypi&logoColor=white&color=%23F7DF1E)
 
 # Raspberry-Pi-Pico-based-Line-Follower-Robot
-<strong>Proyek Tunggal Robot Pengikut Garis Berbasis Raspberry Pi Pico</strong><br><br>
+<strong>Proyek Tunggal: Robot Pengikut Garis Berbasis Raspberry Pi Pico</strong><br><br>
 Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali garis yang ditentukan. Robot ini telah dilengkapi dengan sensor infrared yang bertipe ``` TCRT5000 ```. Dalam prosesnya, sensor ini bekerja berdasarkan prinsip pemantulan cahaya yang didapatkan dari objek yang kemudian diteruskan ke fototransistor untuk ditentukan nilai keluarannya. Jika pantulan cahaya pada objek berwarna gelap atau hitam itu dinilai kurang memadai, maka modul sensor akan memberikan keluaran ``` LOW ```, dalam hal ini indikator led tidak akan menyala. Jika pantulan cahaya pada permukaan terang atau putih itu dinilai memadai, maka modul sensor akan memberikan keluaran ``` HIGH ```, dalam hal ini indikator led akan menyala.
 
 <br><br>
