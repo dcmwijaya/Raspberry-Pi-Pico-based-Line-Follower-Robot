@@ -10,7 +10,7 @@ This project discusses how the robot can automatically recognize the specified l
 <br><br>
 
 ## Project Requirements
-| Media | Description |
+| Part | Description |
 | --- | --- |
 | Development Board | Raspberry Pi Pico |
 | Code Editor | Thonny IDE |
