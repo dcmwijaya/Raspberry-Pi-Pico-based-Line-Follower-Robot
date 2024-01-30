@@ -10,7 +10,7 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
 <br><br>
 
 ## Kebutuhan Proyek
-| Media | Deskripsi |
+| Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | Raspberry Pi Pico |
 | Editor Kode | Thonny IDE |
