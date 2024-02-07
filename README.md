@@ -99,7 +99,9 @@ This project discusses how the robot can automatically recognize the specified l
 
 6. Open the file ``` main.py ``` which is in the ``` Raspberry Pi Pico ``` storage -> then click ``` Run current script (F5) ```.<br><br>
 
-7. Program code executed successfully -> sign: ``` %run -c $EDITOR_CONTENT ```.
+7. Program code executed successfully -> sign: ``` %run -c $EDITOR_CONTENT ```.<br><br>
+
+8. If there is still a problem when uploading the program, then try to check the ``` interpreter ``` / ``` port ``` / ``` others ``` section.
 
 <br><br>
 
