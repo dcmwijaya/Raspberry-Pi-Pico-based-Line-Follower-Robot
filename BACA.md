@@ -99,7 +99,9 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
 
 6. Buka berkas ``` main.py ``` yang ada di penyimpanan ``` Raspberry Pi Pico ``` -> lalu klik ``` Run current script (F5) ```.<br><br>
 
-7. Kode program berhasil di eksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.
+7. Kode program berhasil di eksekusi -> tandanya: ``` %run -c $EDITOR_CONTENT ```.<br><br>
+
+8. Jika saat unggah program masih terdapat masalah, maka coba periksa pada bagian ``` interpreter ``` / ``` port ``` / ``` yang lainnya ```.
 
 <br><br>
 
