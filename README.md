@@ -108,7 +108,7 @@ This project discusses how the robot can automatically recognize the specified l
    
    • ``` Editor Menu ```, then check all the options except: ``` Indent with tab characters ```.<br><br>
 
-3. If the file view does not exist in Thonny IDE, then please click the ``` View ``` -> section and select ``` Files ``` to display it.<br><br>
+3. If the file view does not exist in ``` Thonny IDE ```, then please click the ``` View ``` -> section and select ``` Files ``` to display it.<br><br>
 
 4. Then look for a file called ``` main.py ``` in directory: ``` Raspberry-Pi-Pico-based-Line-Follower-Robot/Src ```.<br><br>
    
