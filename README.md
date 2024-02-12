@@ -73,9 +73,9 @@ This project discusses how the robot can automatically recognize the specified l
 
    <table><tr><td width="810">      
 
-      - Press and hold the ``` BOOTSEL ``` button on the Raspberry Pi Pico board while connecting to the computer via a micro USB cable.
+      - Press and hold the ``` BOOTSEL ``` button on the ``` Raspberry Pi Pico ``` board while connecting to the computer via a ``` micro USB ``` cable.
    
-      - After the Raspberry Pi Pico is recognized by the computer (connected), then immediately release the ``` BOOTSEL ``` button.
+      - After the ``` Raspberry Pi Pico ``` is recognized by the computer (connected), then immediately release the ``` BOOTSEL ``` button.
       
       - When successfully connected, a new drive called ``` RPI-RP2 ``` will open.
       
@@ -83,7 +83,9 @@ This project discusses how the robot can automatically recognize the specified l
 
    </td></tr></table><br>
 
-2. After the process is successful, the ``` RPI-RP2 ``` drive will automatically close.
+2. After the process is successful, the ``` RPI-RP2 ``` drive will automatically close.<br><br>
+
+3. In general, the firmware upload only needs to be done once when you first use the ``` Raspberry Pi Pico ``` board.
 
 <br><br>
 
