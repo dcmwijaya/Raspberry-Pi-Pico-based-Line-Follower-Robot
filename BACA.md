@@ -16,10 +16,10 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
 | Editor Kode | Thonny IDE |
 | Bootloader | MicroPython UF2 |
 | Bahasa Pemrograman | MicroPython |
-| Paket | machine & utime |
+| Paket | • machine<br>• utime |
 | Aktuator | Gear Motor / Motor DC (x2) |
-| Sensor | KR08200: Sensor IR Pelacakan Garis 3 Arah, Merek: Funduino (x1) |
-| Komponen Lainnya | Kabel USB mikro - USB tipe A (x1), Kabel USB mikro - JST 2 pin (x1), Kabel jumper (1 set), Baterai Li-ion 18650 (x2), Tempat baterai seri 2 slot (x1), Roda robot (x2), Roda kastor (x1), Motor driver L298N (x1), Kerangka robot mobil (x1), Baut spicer (1 set), Baut plus (1 set), dan Mur (1 set) |
+| Sensor | KR08200: Sensor IR Pelacakan Garis 3 Arah - Merek: Funduino (x1) |
+| Komponen Lainnya | • Kabel USB mikro - USB tipe A (x1)<br>• Kabel USB mikro - JST 2 pin (x1)<br>• Kabel jumper (1 set)<br>• Baterai Li-ion 18650 (x2)<br>• Tempat baterai seri 2 slot (x1)<br>• Roda robot (x2)<br>• Roda kastor (x1)<br>• Motor driver L298N (x1)<br>• Kerangka robot mobil (x1)<br>• Baut spicer (1 set)<br>• Baut plus (1 set)<br>• Mur (1 set) |
 
 <br><br>
 
