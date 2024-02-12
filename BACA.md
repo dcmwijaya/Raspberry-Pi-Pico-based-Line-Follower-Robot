@@ -26,16 +26,23 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
 ## Unduh & Instal
 1. Thonny IDE
 
+   <table><tr><td width="810">
+
    ```
    https://thonny.org/
    ```
-<br>
+
+   </td></tr></table><br>
 
 2. MicroPython UF2
+
+   <table><tr><td width="810">
 
    ```
    https://bit.ly/MicroPython_UF2
    ```
+
+   </td></tr></table>
    
 <br><br>
 
@@ -64,13 +71,17 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
 ## Pengaturan Bootloader MicroPython
 1. ``` Unggah firmware ``` :
 
-   • Tekan dan tahan tombol ``` BOOTSEL ``` yang ada di papan Raspberry Pi Pico sembari menyambungkan ke komputer melalui kabel mikro USB.
+   <table><tr><td width="810">    
 
-   • Setelah Raspberry Pi Pico dikenali oleh komputer (terhubung), maka segera lepaskan tombol ``` BOOTSEL ```.
-   
-   • Ketika berhasil terhubung, maka sebuah drive baru bernama ``` RPI-RP2 ``` akan terbuka.
-   
-   • ``` Seret -> Lepaskan ``` atau ``` Salin -> Tempelkan ``` file firmware ``` MicroPython UF2 ``` ke dalam drive ``` RPI-RP2 ```.<br><br>
+      - Tekan dan tahan tombol ``` BOOTSEL ``` yang ada di papan Raspberry Pi Pico sembari menyambungkan ke komputer melalui kabel mikro USB.
+        
+      - Setelah Raspberry Pi Pico dikenali oleh komputer (terhubung), maka segera lepaskan tombol ``` BOOTSEL ```.
+      
+      - Ketika berhasil terhubung, maka sebuah drive baru bernama ``` RPI-RP2 ``` akan terbuka.
+      
+      - ``` Seret -> Lepaskan ``` atau ``` Salin -> Tempelkan ``` file firmware ``` MicroPython UF2 ``` ke dalam drive ``` RPI-RP2 ```.
+
+   </td></tr></table><br>
 
 2. Setelah prosesnya berhasil, maka drive ``` RPI-RP2 ``` akan otomatis tertutup.
 
@@ -83,11 +94,15 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
    
    • ``` Menu Interpreter ```, kemudian ubah bagian :
 
+      <table><tr><td width="810">
+
       - ``` Interpreter ``` -> ``` MicroPython (Raspberry Pi Pico) ```
         
       - ``` Port ``` -> ``` Board CDC @ COM... ```
   
-      - ``` Restart interpreter before running a script ``` -> ``` hapus centang ```<br><br>
+      - ``` Restart interpreter before running a script ``` -> ``` hapus centang ```
+
+   </td></tr></table><br>
    
    • ``` Menu Editor ```, kemudian centang semua opsinya kecuali: ``` Indent with tab characters ```.<br><br>
 
@@ -119,7 +134,7 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
 <br><br>
 
 ## Sorotan
-<img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/09f8d93b-ae48-4ad9-a3ef-3b69fd152945" alt="robot-line-follower">
+<img width="840" src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/09f8d93b-ae48-4ad9-a3ef-3b69fd152945" alt="robot-line-follower">
 
 <br><br>
 
