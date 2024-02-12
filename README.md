@@ -26,16 +26,23 @@ This project discusses how the robot can automatically recognize the specified l
 ## Download & Install
 1. Thonny IDE
 
+   <table><tr><td width="810">
+
    ```
    https://thonny.org/
    ```
-<br>
+
+   </td></tr></table><br>
 
 2. MicroPython UF2
+
+   <table><tr><td width="810">
 
    ```
    https://bit.ly/MicroPython_UF2
    ```
+
+   </td></tr></table>
    
 <br><br>
 
@@ -64,13 +71,17 @@ This project discusses how the robot can automatically recognize the specified l
 ## MicroPython Bootloader Setup
 1. ``` Upload the firmware ``` :
 
-   - Press and hold the ``` BOOTSEL ``` button on the Raspberry Pi Pico board while connecting to the computer via a micro USB cable.
+   <table><tr><td width="810">      
 
-   - After the Raspberry Pi Pico is recognized by the computer (connected), then immediately release the ``` BOOTSEL ``` button.
+      - Press and hold the ``` BOOTSEL ``` button on the Raspberry Pi Pico board while connecting to the computer via a micro USB cable.
    
-   - When successfully connected, a new drive called ``` RPI-RP2 ``` will open.
-   
-   - ``` Drag -> Drop ``` or ``` Copy -> Paste ``` the ``` MicroPython UF2 ``` firmware file into the ``` RPI-RP2 ``` drive.<br><br>
+      - After the Raspberry Pi Pico is recognized by the computer (connected), then immediately release the ``` BOOTSEL ``` button.
+      
+      - When successfully connected, a new drive called ``` RPI-RP2 ``` will open.
+      
+      - ``` Drag -> Drop ``` or ``` Copy -> Paste ``` the ``` MicroPython UF2 ``` firmware file into the ``` RPI-RP2 ``` drive.
+
+   </td></tr></table><br>
 
 2. After the process is successful, the ``` RPI-RP2 ``` drive will automatically close.
 
@@ -81,13 +92,17 @@ This project discusses how the robot can automatically recognize the specified l
 
 2. Click ``` Tools ``` -> then select ``` Options... ``` -> then select :<br><br>
    
-   • ``` Interpreter Menu ```, then change the part:
+   • ``` Interpreter Menu ```, then change the part :
 
+      <table><tr><td width="810">
+      
       - ``` Interpreter ``` -> ``` MicroPython (Raspberry Pi Pico) ```
         
       - ``` Port ``` -> ``` Board CDC @ COM... ```
   
-      - ``` Restart interpreter before running a script ``` -> ``` uncheck ```<br><br>
+      - ``` Restart interpreter before running a script ``` -> ``` uncheck ```
+
+      </td></tr></table><br>
    
    • ``` Editor Menu ```, then check all the options except: ``` Indent with tab characters ```.<br><br>
 
@@ -119,7 +134,7 @@ This project discusses how the robot can automatically recognize the specified l
 <br><br>
 
 ## Highlights
-<img src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/09f8d93b-ae48-4ad9-a3ef-3b69fd152945" alt="robot-line-follower">
+<img width="840" src="https://github.com/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot/assets/54527592/09f8d93b-ae48-4ad9-a3ef-3b69fd152945" alt="robot-line-follower">
 
 <br><br>
 
