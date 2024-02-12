@@ -73,9 +73,9 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
 
    <table><tr><td width="810">    
 
-      - Tekan dan tahan tombol ``` BOOTSEL ``` yang ada di papan Raspberry Pi Pico sembari menyambungkan ke komputer melalui kabel mikro USB.
+      - Tekan dan tahan tombol ``` BOOTSEL ``` yang ada di papan ``` Raspberry Pi Pico ``` sembari menyambungkan ke komputer melalui kabel ``` mikro USB ```.
         
-      - Setelah Raspberry Pi Pico dikenali oleh komputer (terhubung), maka segera lepaskan tombol ``` BOOTSEL ```.
+      - Setelah ``` Raspberry Pi Pico ``` dikenali oleh komputer (terhubung), maka segera lepaskan tombol ``` BOOTSEL ```.
       
       - Ketika berhasil terhubung, maka sebuah drive baru bernama ``` RPI-RP2 ``` akan terbuka.
       
@@ -83,7 +83,9 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
 
    </td></tr></table><br>
 
-2. Setelah prosesnya berhasil, maka drive ``` RPI-RP2 ``` akan otomatis tertutup.
+2. Setelah prosesnya berhasil, maka drive ``` RPI-RP2 ``` akan otomatis tertutup.<br><br>
+
+3. Secara umum, unggah firmware itu hanya perlu dilakukan sekali saja saat anda pertama kali menggunakan board ``` Raspberry Pi Pico ```.
 
 <br><br>
 
