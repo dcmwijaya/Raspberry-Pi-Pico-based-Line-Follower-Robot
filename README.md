@@ -104,7 +104,7 @@ This project discusses how the robot can automatically recognize the specified l
   
       - ``` Restart interpreter before running a script ``` -> ``` uncheck ```
 
-      </td></tr></table><br>
+      </td></tr></table>
    
    • ``` Editor Menu ```, then check all the options except: ``` Indent with tab characters ```.<br><br>
 
