@@ -104,7 +104,7 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
   
       - ``` Restart interpreter before running a script ``` -> ``` hapus centang ```
 
-   </td></tr></table><br>
+   </td></tr></table>
    
    • ``` Menu Editor ```, kemudian centang semua opsinya kecuali: ``` Indent with tab characters ```.<br><br>
 
