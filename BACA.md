@@ -108,7 +108,7 @@ Proyek ini membahas tentang bagaimana cara robot secara otomatis dapat mengenali
    
    • ``` Menu Editor ```, kemudian centang semua opsinya kecuali: ``` Indent with tab characters ```.<br><br>
 
-3. Jika tampilan berkas belum ada di Thonny IDE, maka silakan anda klik bagian ``` View ``` -> lalu pilih ``` Files ``` untuk menampilkannya.<br><br>
+3. Jika tampilan berkas belum ada di ``` Thonny IDE ```, maka silakan anda klik bagian ``` View ``` -> lalu pilih ``` Files ``` untuk menampilkannya.<br><br>
 
 4. Kemudian cari berkas bernama ``` main.py ``` di dalam direktori: ``` Raspberry-Pi-Pico-based-Line-Follower-Robot/Src ```.<br><br>
    
