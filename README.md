@@ -16,7 +16,7 @@ This project discusses how the robot can automatically recognize the specified l
 | Code Editor | Thonny IDE |
 | Bootloader | MicroPython UF2 |
 | Programming Language | MicroPython |
-| Packages | • machine<br>• utime |
+| Packages | • machine (default)<br>• utime (default) |
 | Actuators | Gear Motor / Motor DC (x2) |
 | Sensor | KR08200: 3 Way Line Tracking IR Sensor - Brand: Funduino (x1) |
 | Other Components | • Micro USB cable - USB type A (x1)<br>• Micro USB cable - 2 pin JST (x1)<br>• Jumper cable (1 set)<br>• KCD11: Rocker Switch SPST (x1)<br>• Li-ion battery 18650 (x2)<br>• 2-Slot series battery holder (x1)<br>• Robot wheels (x2)<br>• Caster wheel (x1)<br>• Motor driver L298N (x1)<br>• Car robot frame (x1)<br>• Spicer bolts (1 set)<br>• Bolts plus (1 set)<br>• Nuts (1 set) |
