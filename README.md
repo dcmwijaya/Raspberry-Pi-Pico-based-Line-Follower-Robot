@@ -29,7 +29,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
    <table><tr><td width="810">
 
    ```
-   https://thonny.org/
+   https://bit.ly/ThonnyIDE_Installer
    ```
 
    </td></tr></table><br>
@@ -39,7 +39,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/MicroPython_UF2
+   https://bit.ly/UF2_RPIpico_Bootloader
    ```
 
    </td></tr></table>
