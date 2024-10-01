@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Raspberry-Pi-Pico-based-Line-Follower-Robot?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Project](https://img.shields.io/badge/Project-Raspberry%20Pi%20Pico-light.svg?style=flat&logo=raspberrypi&logoColor=white&color=%23F7DF1E)
-![Type](https://img.shields.io/badge/Type-Solo%20Project-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Raspberry-Pi-Pico-based-Line-Follower-Robot
 <strong>Proyek Tunggal: Robot Pengikut Garis Berbasis Raspberry Pi Pico</strong><br><br>
