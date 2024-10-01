@@ -137,7 +137,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 <br><br>
 
 ## Sorotan
-<img width="840" src="Assets/Documentation/Experiment/robot-display.jpg" alt="robot-line-follower">
+<img width="840" src="Assets/Documentation/Experiment/Device.jpg" alt="robot-line-follower">
 
 <br><br>
 

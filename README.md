@@ -137,7 +137,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 <br><br>
 
 ## Highlights
-<img width="840" src="Assets/Documentation/Experiment/robot-display.jpg" alt="robot-line-follower">
+<img width="840" src="Assets/Documentation/Experiment/Device.jpg" alt="robot-line-follower">
 
 <br><br>
 
